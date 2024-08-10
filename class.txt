@@ -11,3 +11,6 @@ Fuchsia
 Purple
 Brown
 Red
+
+remove these
+add more coding logic!
